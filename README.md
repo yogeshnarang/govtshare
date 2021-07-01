@@ -1,8 +1,11 @@
 # sharedoc
 
-•online sharing of documents
+• Online sharing of documents
 • Developed interface like google doc supporting multiuser functionality
 Using socket.io
+• Online sharing of excel sheets
+• Developed interface like google sheets supporting features such as sharing the sheet, formatting options (bold, itlaics, alignment, etc), saving sheet and more.
+
 • Implemented CRUD in moongose.js (MongoDB) for file system
 
 ## Installation
